@@ -1,4 +1,4 @@
-## Hi there 👋
+🌱 Currently studying on a bunch of stuff like ThreeJS, Sanity, and etc.
 
 <!--
 **caarondg/caarondg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
